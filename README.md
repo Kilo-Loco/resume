@@ -1,4 +1,4 @@
-# Kyle Lee
+# Kyle Lee (Kilo Loco)
 Rialto, CA 92376 | kyle@kiloloco.com
 
 ## Summary
