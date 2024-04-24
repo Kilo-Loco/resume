@@ -5,7 +5,7 @@ Rialto, CA 92376 | kyle@kiloloco.com
 Seasoned software developer with over 8 years of experience in the tech industry, transitioning into blockchain technology to shape the future of decentralized applications. Proven track record of explaining complex technical concepts for developers through various mediums like blog articles, video tutorials, and in-person courses. Committed to continuous learning and practical application, particularly in engaging with impactful blockchain projects.
 
 ## Technical Skills
-- Blockchain Technologies: Solidity, Smart Contracts, Foundry, Hardhat, Ethers
+- Blockchain Technologies: Solidity, Smart Contracts, Foundry, Hardhat, Truffle, Ethers, Web3.js
 - Programming Languages: Swift, Kotlin, Dart, Python
 - AWS Services: Amplify, S3, Cognito, Lambda
 - Mobile Development Tools: Xcode, Android Studio, Flutter
@@ -18,11 +18,24 @@ Seasoned software developer with over 8 years of experience in the tech industry
 - Hands-on learning with technologies like Solidity, Hardhat, and Ethers
 - Actively engaged in projects showcasing growing expertise in blockchain development
 
+## Portfolio
+
+### Mobile Apps
+[![Bird](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/21/09/f72109fa-db26-025d-8e60-dd8308789d2b/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/150x0w.webp)](https://apps.apple.com/us/app/bird-ride-electric/id1260842311)
+[![TennisPAL](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/6b/f0/f96bf00a-3112-88ed-133c-ba69e93eadde/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/150x0w.webp)](https://apps.apple.com/us/app/tennispal/id1119279287)
+[![Metis](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/52/6c/ac526ce8-8fb8-dc35-4ff4-bdbf569e74bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x0w.webp)](https://apps.apple.com/us/app/metis-collective/id1442135964)
+
+### Technical Content
+- [Up and Running with Amplify Libraries for Swift (v2.0)](https://youtu.be/L02LTw4r7O8?si=AkdxMgnH66fBfVed)
+- [Upload Files to Amazon S3 from Android](https://www.kiloloco.com/articles/016-upload-files-to-amazon-s3-from-android/)
+- [Federating Users using Sign in with Apple and AWS Amplify for Swift](https://aws.amazon.com/blogs/mobile/federating-users-using-sign-in-with-apple-and-aws-amplify-for-swift/)
+- [What is AWS Amplify?](https://www.youtube.com/shorts/gobtP0OxG2I)
+
 ## Professional Experience
 ### Kilo Loco LLC - Software Development Freelancer
 04/2017 - Current
 - Developed and deployed robust, scalable mobile applications for iOS and Android platforms, leveraging expert knowledge of Swift, Kotlin, and Flutter to deliver engaging user experiences and seamless functionality.
-- Implemented secure and efficient blockchain solutions using Solidity and web3.js, enabling decentralized applications (dApps) with features such as smart contracts, token transactions, and blockchain integration.
+- Implemented secure and efficient blockchain solutions using Solidity and Web3.js, enabling decentralized applications (dApps) with features such as smart contracts, token transactions, and blockchain integration.
 - Collaborated effectively with cross-functional teams, including designers, product managers, and other developers, to identify and resolve technical challenges, optimize performance, and ensure successful project delivery within tight deadlines.
 
 ### Amazon Web Services (AWS) - Senior Developer Advocate
@@ -51,9 +64,3 @@ Seasoned software developer with over 8 years of experience in the tech industry
 
 ## Education
 - Associate Of Arts For Transfer (AA-T): Psychology, Mt. San Antonio College, 01/2012
-
-## Technical Content
-- [Up and Running with Amplify Libraries for Swift (v2.0)](https://youtu.be/L02LTw4r7O8?si=AkdxMgnH66fBfVed)
-- [Upload Files to Amazon S3 from Android](https://www.kiloloco.com/articles/016-upload-files-to-amazon-s3-from-android/)
-- [Federating Users using Sign in with Apple and AWS Amplify for Swift](https://aws.amazon.com/blogs/mobile/federating-users-using-sign-in-with-apple-and-aws-amplify-for-swift/)
-- [What is AWS Amplify?](https://www.youtube.com/shorts/gobtP0OxG2I)
