@@ -38,7 +38,9 @@ Seasoned software developer with over 8 years of experience in the tech industry
 
 ### Bird - Software Engineer
 09/2019 - 04/2020
-- Developed and maintained iOS and Android applications using Swift and Kotlin, contributing to a 30% increase in user base and a 4.5-star rating on the App Store
+- Developed and launched key features, such as Flight Sheet, Property Report, and Other Possible Locations, enhancing operator efficiency and user experience.
+- Spearheaded the Flyer program, integrating onboarding, level-based filtering, and promotional elements to expand Bird's business model and user base.
+- Integrated Radar and Bluetooth capabilities for improved Bird tracking and location, streamlining operations and maintenance.
 
 ### SoCal Tech Academy - iOS Instructor
 04/2018 - 09/2018
