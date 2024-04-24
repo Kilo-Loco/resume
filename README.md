@@ -19,11 +19,11 @@ Seasoned software developer with over 8 years of experience in the tech industry
 - Actively engaged in projects showcasing growing expertise in blockchain development
 
 ## Professional Experience
-### Kilo Loco - Mobile Development Content Creator
+### Kilo Loco LLC - Software Development Freelancer
 04/2017 - Current
-- Engaged with a mobile community of 100,000+ developers via YouTube, Discord, and events like AWS re:Invent, Swift Heroes, and DroidCon
-- Designed and updated 10+ apps for clients, focusing on mobile development best practices and user experience
-- Created and mentored 5+ courses on mobile development topics, helping over 35,000 students enhance their skills
+- Developed and deployed robust, scalable mobile applications for iOS and Android platforms, leveraging expert knowledge of Swift, Kotlin, and Flutter to deliver engaging user experiences and seamless functionality.
+- Implemented secure and efficient blockchain solutions using Solidity and web3.js, enabling decentralized applications (dApps) with features such as smart contracts, token transactions, and blockchain integration.
+- Collaborated effectively with cross-functional teams, including designers, product managers, and other developers, to identify and resolve technical challenges, optimize performance, and ensure successful project delivery within tight deadlines.
 
 ### Amazon Web Services (AWS) - Senior Developer Advocate
 05/2020 - 06/2023
