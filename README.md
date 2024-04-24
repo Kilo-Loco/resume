@@ -45,7 +45,9 @@ Seasoned software developer with over 8 years of experience in the tech industry
 
 ### SoCal Tech Academy - iOS Instructor
 04/2018 - 09/2018
-- Developed and delivered a comprehensive iOS development curriculum, resulting in a 95% student satisfaction rate and 80% job placement rate
+- Developed and taught an intensive iOS development course, covering Swift, Xcode, UIKit, and app architecture, equipping students with essential iOS development skills.
+- Implemented practical coding exercises and projects, enabling students to build a portfolio of functional iOS apps.
+- Provided personalized guidance and mentorship, contributing to a 95% student satisfaction rate and an 80% job placement rate.
 
 ## Education
 - Associate Of Arts For Transfer (AA-T): Psychology, Mt. San Antonio College, 01/2012
