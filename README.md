@@ -33,8 +33,9 @@ Seasoned software developer with over 8 years of experience in the tech industry
 
 ### SageDom - Senior iOS Engineer
 04/2016 - 12/2023
-- Led the architecture and development of 5+ iOS applications, improving performance by 25% and user engagement by 15%
-- Conducted 20+ teaching sessions and pair programming sessions, facilitating knowledge sharing and enhancing team productivity by 20%
+- Developed and launched critical features such as the Activity Feed, Find PAL functionality, and an improved Invite/Event system, enhancing user engagement and app functionality.
+- Implemented a comprehensive Chat system with features like user blocking, group chat, and unread message badges, fostering better communication among users.
+- Continuously improved app performance, fixed bugs, and optimized UI/UX across multiple releases, ensuring a smooth and intuitive user experience.
 
 ### Bird - Software Engineer
 09/2019 - 04/2020
