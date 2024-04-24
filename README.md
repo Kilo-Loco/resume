@@ -8,19 +8,25 @@ Seasoned software developer with over 8 years of experience in the tech industry
 - Blockchain Technologies: Solidity, Smart Contracts, Foundry, Hardhat, Truffle, Ethers, Web3.js
 - Programming Languages: Swift, Kotlin, Dart, Python
 - AWS Services: Amplify, S3, Cognito, Lambda
-- Mobile Development Tools: Xcode, Android Studio, Flutter
+- Mobile Development Tools: SwiftUI, UIKit, Jetpack Compose, Flutter
 - Content Creation: Video Editing, Blog Writing, Technical Writing
 - Community Engagement: Public Speaking, Livestreaming, Developer Advocacy
 
-## Blockchain Experience
-### Personal and Educational Projects
-- Expanding blockchain expertise through a smart contract security course
-- Hands-on learning with technologies like Solidity, Hardhat, and Ethers
-- Actively engaged in projects showcasing growing expertise in blockchain development
-
 ## Portfolio
 
-### Mobile Apps
+### Blockchain dApps
+
+- [**PollD dApp**](https://github.com/Kilo-Loco/PollD)
+  - Implemented a Solidity-based smart contract with functions for creating polls, voting, and retrieving poll details
+  - Deployed the smart contract to the Sepolia testnet on Ethereum and verified it on Etherscan
+  - Provided comprehensive documentation and instructions for building, testing, deploying, and interacting with the smart contract using Foundry and Make commands
+  
+- **Flash Loan Simulation dApp** (Freelance Project)
+  - Developed a Flash Loan Simulation dApp that demonstrates flash loans between two simulated decentralized exchanges
+  - Implemented smart contracts using Solidity and created an intuitive GUI using Streamlit and Web3.py for seamless blockchain interaction
+  - Successfully delivered the project, showcasing ability to develop complex blockchain applications
+
+### iOS Apps
 [![Bird](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/21/09/f72109fa-db26-025d-8e60-dd8308789d2b/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220-0.png/150x0w.webp)](https://apps.apple.com/us/app/bird-ride-electric/id1260842311)
 [![TennisPAL](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/6b/f0/f96bf00a-3112-88ed-133c-ba69e93eadde/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/150x0w.webp)](https://apps.apple.com/us/app/tennispal/id1119279287)
 [![Metis](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/52/6c/ac526ce8-8fb8-dc35-4ff4-bdbf569e74bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/150x0w.webp)](https://apps.apple.com/us/app/metis-collective/id1442135964)
