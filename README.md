@@ -1,2 +1,54 @@
-# resume
-Kyle Lee's resume, which highlights his mobile development and blockchain development expertise
+# Kyle Lee
+Rialto, CA 92376 | kyle@kiloloco.com
+
+## Summary
+Seasoned software developer with over 8 years of experience in the tech industry, transitioning into blockchain technology to shape the future of decentralized applications. Proven track record of explaining complex technical concepts for developers through various mediums like blog articles, video tutorials, and in-person courses. Committed to continuous learning and practical application, particularly in engaging with impactful blockchain projects.
+
+## Technical Skills
+- Blockchain Technologies: Solidity, Smart Contracts, Foundry, Hardhat, Ethers
+- Programming Languages: Swift, Kotlin, Dart, Python
+- AWS Services: Amplify, S3, Cognito, Lambda
+- Mobile Development Tools: Xcode, Android Studio, Flutter
+- Content Creation: Video Editing, Blog Writing, Technical Writing
+- Community Engagement: Public Speaking, Livestreaming, Developer Advocacy
+
+## Blockchain Experience
+### Personal and Educational Projects
+- Expanding blockchain expertise through a smart contract security course
+- Hands-on learning with technologies like Solidity, Hardhat, and Ethers
+- Actively engaged in projects showcasing growing expertise in blockchain development
+
+## Professional Experience
+### Kilo Loco - Mobile Development Content Creator
+04/2017 - Current
+- Engaged with a mobile community of 100,000+ developers via YouTube, Discord, and events like AWS re:Invent, Swift Heroes, and DroidCon
+- Designed and updated 10+ apps for clients, focusing on mobile development best practices and user experience
+- Created and mentored 5+ courses on mobile development topics, helping over 35,000 students enhance their skills
+
+### Amazon Web Services (AWS) - Senior Developer Advocate
+05/2020 - 06/2023
+- Created and shared technical content, including 25+ videos, 10+ blog posts, and 15+ YouTube Shorts, reaching an audience of over 50,000 developers
+- Collaborated with product and engineering teams to launch Swift Package Manager support for AWS Amplify Libraries, accelerating mobile app development by 30%
+- Produced content on integrating new technologies with AWS products, resulting in a 20% increase in adoption rate
+
+### SageDom - Senior iOS Engineer
+04/2016 - 12/2023
+- Led the architecture and development of 5+ iOS applications, improving performance by 25% and user engagement by 15%
+- Conducted 20+ teaching sessions and pair programming sessions, facilitating knowledge sharing and enhancing team productivity by 20%
+
+### Bird - Software Engineer
+09/2019 - 04/2020
+- Developed and maintained iOS and Android applications using Swift and Kotlin, contributing to a 30% increase in user base and a 4.5-star rating on the App Store
+
+### SoCal Tech Academy - iOS Instructor
+04/2018 - 09/2018
+- Developed and delivered a comprehensive iOS development curriculum, resulting in a 95% student satisfaction rate and 80% job placement rate
+
+## Education
+- Associate Of Arts For Transfer (AA-T): Psychology, Mt. San Antonio College, 01/2012
+
+## Technical Content
+- [Up and Running with Amplify Libraries for Swift (v2.0)](https://youtu.be/L02LTw4r7O8?si=AkdxMgnH66fBfVed)
+- [Upload Files to Amazon S3 from Android](https://www.kiloloco.com/articles/016-upload-files-to-amazon-s3-from-android/)
+- [Federating Users using Sign in with Apple and AWS Amplify for Swift](https://aws.amazon.com/blogs/mobile/federating-users-using-sign-in-with-apple-and-aws-amplify-for-swift/)
+- [What is AWS Amplify?](https://www.youtube.com/shorts/gobtP0OxG2I)
